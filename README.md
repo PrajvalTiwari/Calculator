@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator
+A simple calculator with DMAS support
